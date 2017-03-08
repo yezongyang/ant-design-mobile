@@ -6,6 +6,7 @@ module.exports = (config, includeDemo) => {
     path.resolve(__dirname, 'components/notice-bar/style/assets/'),
     path.resolve(__dirname, 'components/toast/style/assets/'),
     path.resolve(__dirname, 'components/stepper/style/assets/'),
+    path.resolve(__dirname, 'components/steps/style/assets/'),
   ];
   if (includeDemo) {
     svgDirs = svgDirs.concat([

@@ -33,9 +33,9 @@ ReactDOM.render(
     <div className="sub-title">水平自定义icon</div>
     <WhiteSpace />
     <Steps direction="horizontal">
-      <Step title="步骤1" icon={<Icon type={require('./pay-circle.svg')} />} />
-      <Step status="error" title="步骤2" icon={<Icon type={require('./pay-circle.svg')} />} />
-      <Step title="步骤3" icon={<Icon type={require('./pay-circle.svg')} />} />
+      <Step title="步骤1" icon={<Icon type={require('./pay-circle-gray.svg')} />} />
+      <Step status="error" title="步骤2" icon={<Icon type={require('./pay-circle-gray.svg')} />} />
+      <Step title="步骤3" icon={<Icon type={require('./pay-circle-gray.svg')} />} />
     </Steps>
     <div className="sub-title">水平 timeline 模式</div>
     <WhiteSpace />

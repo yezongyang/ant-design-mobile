@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="36px" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M18,36.4782609 C27.9411255,36.4782609 36,28.4193864 36,18.4782609 C36,8.53713537 27.9411255,0.47826087 18,0.47826087 C8.0588745,0.47826087 0,8.53713537 0,18.4782609 C0,28.4193864 8.0588745,36.4782609 18,36.4782609 Z" id="path-1"></path>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="36" height="36" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="竖向steps" transform="translate(-1250.000000, -182.000000)" stroke="#108EE9">
+            <g id="带小图标/进度条/多行含突出文本" transform="translate(1250.000000, 180.000000)">
+                <g id="1" transform="translate(0.000000, 1.022489)">
+                    <g id="icon" transform="translate(0.000000, 0.499250)">
+                        <use id="Oval-45" mask="url(#mask-2)" stroke-width="6" fill="#FFFFFF" xlink:href="#path-1"></use>
+                        <polyline id="Path-334" stroke-width="3" points="9 18.5469164 15.6757055 25.0055563 28 11"></polyline>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

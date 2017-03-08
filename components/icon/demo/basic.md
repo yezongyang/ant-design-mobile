@@ -13,7 +13,7 @@ const icons = [
   'check-circle', 'check', 'check-circle-o',
   'cross-circle', 'cross', 'cross-circle-o',
   'up', 'down', 'left',
-  'right', 'ellipsis',
+  'right', 'ellipsis', 'ellipsis-circle',
   'koubei-o', 'koubei', 'loading',
 ];
 /* eslint global-require: 0 */

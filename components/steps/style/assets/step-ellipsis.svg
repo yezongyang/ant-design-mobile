@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="36px" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 36</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M18,36.8598201 C27.9411255,36.8598201 36,28.8009456 36,18.8598201 C36,8.91869459 27.9411255,0.85982009 18,0.85982009 C8.0588745,0.85982009 0,8.91869459 0,18.8598201 C0,28.8009456 8.0588745,36.8598201 18,36.8598201 Z" id="path-1"></path>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="36" height="36" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="竖向steps" transform="translate(-1250.000000, -338.000000)">
+            <g id="带小图标/进度条/多行含突出文本" transform="translate(1250.000000, 180.000000)">
+                <g id="2" transform="translate(0.000000, 157.140180)">
+                    <g id="icon">
+                        <g id="Group-36">
+                            <use id="Oval-45" stroke="#CCCCCC" mask="url(#mask-2)" stroke-width="6" fill="#FFFFFF" xlink:href="#path-1"></use>
+                            <ellipse id="Oval-82" fill="#CCCCCC" cx="10" cy="19.0071438" rx="2" ry="2.00079375"></ellipse>
+                            <ellipse id="Oval-82-Copy" fill="#CCCCCC" cx="18" cy="19.0071438" rx="2" ry="2.00079375"></ellipse>
+                            <ellipse id="Oval-82-Copy-2" fill="#CCCCCC" cx="26" cy="19.0071438" rx="2" ry="2.00079375"></ellipse>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
