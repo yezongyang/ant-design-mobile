@@ -15,79 +15,103 @@ exports[`renders ./components/grid/demo/basic.md correctly 1`] = `
     >
       <div
         class="am-flexbox-item am-grid-item"
-        style="width:0px;"
+        style="width:25%;"
       >
         <div
-          class="am-grid-item-contain column-num-4"
-          style="height:0px;"
+          class="am-grid-item-content"
         >
-          <img
-            class="am-grid-icon"
-            src="https://os.alipayobjects.com/rmsportal/IptWdCkrtkAUfjE.png"
-          />
           <div
-            class="am-grid-text"
+            class="am-grid-item-inner-content column-num-4"
           >
-            名字0
+            <img
+              class="am-grid-icon"
+              src="https://os.alipayobjects.com/rmsportal/IptWdCkrtkAUfjE.png"
+            />
+            <div
+              class="am-grid-text"
+            >
+              名字0
+            </div>
           </div>
         </div>
+        <div
+          class="am-grid-item-inner"
+        />
       </div>
       <div
         class="am-flexbox-item am-grid-item"
-        style="width:0px;"
+        style="width:25%;"
       >
         <div
-          class="am-grid-item-contain column-num-4"
-          style="height:0px;"
+          class="am-grid-item-content"
         >
-          <img
-            class="am-grid-icon"
-            src="https://os.alipayobjects.com/rmsportal/IptWdCkrtkAUfjE.png"
-          />
           <div
-            class="am-grid-text"
+            class="am-grid-item-inner-content column-num-4"
           >
-            名字1
+            <img
+              class="am-grid-icon"
+              src="https://os.alipayobjects.com/rmsportal/IptWdCkrtkAUfjE.png"
+            />
+            <div
+              class="am-grid-text"
+            >
+              名字1
+            </div>
           </div>
         </div>
+        <div
+          class="am-grid-item-inner"
+        />
       </div>
       <div
         class="am-flexbox-item am-grid-item"
-        style="width:0px;"
+        style="width:25%;"
       >
         <div
-          class="am-grid-item-contain column-num-4"
-          style="height:0px;"
+          class="am-grid-item-content"
         >
-          <img
-            class="am-grid-icon"
-            src="https://os.alipayobjects.com/rmsportal/IptWdCkrtkAUfjE.png"
-          />
           <div
-            class="am-grid-text"
+            class="am-grid-item-inner-content column-num-4"
           >
-            名字2
+            <img
+              class="am-grid-icon"
+              src="https://os.alipayobjects.com/rmsportal/IptWdCkrtkAUfjE.png"
+            />
+            <div
+              class="am-grid-text"
+            >
+              名字2
+            </div>
           </div>
         </div>
+        <div
+          class="am-grid-item-inner"
+        />
       </div>
       <div
         class="am-flexbox-item am-grid-item"
-        style="width:0px;"
+        style="width:25%;"
       >
         <div
-          class="am-grid-item-contain column-num-4"
-          style="height:0px;"
+          class="am-grid-item-content"
         >
-          <img
-            class="am-grid-icon"
-            src="https://os.alipayobjects.com/rmsportal/IptWdCkrtkAUfjE.png"
-          />
           <div
-            class="am-grid-text"
+            class="am-grid-item-inner-content column-num-4"
           >
-            名字3
+            <img
+              class="am-grid-icon"
+              src="https://os.alipayobjects.com/rmsportal/IptWdCkrtkAUfjE.png"
+            />
+            <div
+              class="am-grid-text"
+            >
+              名字3
+            </div>
           </div>
         </div>
+        <div
+          class="am-grid-item-inner"
+        />
       </div>
     </div>
     <div
@@ -95,79 +119,103 @@ exports[`renders ./components/grid/demo/basic.md correctly 1`] = `
     >
       <div
         class="am-flexbox-item am-grid-item"
-        style="width:0px;"
+        style="width:25%;"
       >
         <div
-          class="am-grid-item-contain column-num-4"
-          style="height:0px;"
+          class="am-grid-item-content"
         >
-          <img
-            class="am-grid-icon"
-            src="https://os.alipayobjects.com/rmsportal/IptWdCkrtkAUfjE.png"
-          />
           <div
-            class="am-grid-text"
+            class="am-grid-item-inner-content column-num-4"
           >
-            名字4
+            <img
+              class="am-grid-icon"
+              src="https://os.alipayobjects.com/rmsportal/IptWdCkrtkAUfjE.png"
+            />
+            <div
+              class="am-grid-text"
+            >
+              名字4
+            </div>
           </div>
         </div>
+        <div
+          class="am-grid-item-inner"
+        />
       </div>
       <div
         class="am-flexbox-item am-grid-item"
-        style="width:0px;"
+        style="width:25%;"
       >
         <div
-          class="am-grid-item-contain column-num-4"
-          style="height:0px;"
+          class="am-grid-item-content"
         >
-          <img
-            class="am-grid-icon"
-            src="https://os.alipayobjects.com/rmsportal/IptWdCkrtkAUfjE.png"
-          />
           <div
-            class="am-grid-text"
+            class="am-grid-item-inner-content column-num-4"
           >
-            名字5
+            <img
+              class="am-grid-icon"
+              src="https://os.alipayobjects.com/rmsportal/IptWdCkrtkAUfjE.png"
+            />
+            <div
+              class="am-grid-text"
+            >
+              名字5
+            </div>
           </div>
         </div>
+        <div
+          class="am-grid-item-inner"
+        />
       </div>
       <div
         class="am-flexbox-item am-grid-item"
-        style="width:0px;"
+        style="width:25%;"
       >
         <div
-          class="am-grid-item-contain column-num-4"
-          style="height:0px;"
+          class="am-grid-item-content"
         >
-          <img
-            class="am-grid-icon"
-            src="https://os.alipayobjects.com/rmsportal/IptWdCkrtkAUfjE.png"
-          />
           <div
-            class="am-grid-text"
+            class="am-grid-item-inner-content column-num-4"
           >
-            名字6
+            <img
+              class="am-grid-icon"
+              src="https://os.alipayobjects.com/rmsportal/IptWdCkrtkAUfjE.png"
+            />
+            <div
+              class="am-grid-text"
+            >
+              名字6
+            </div>
           </div>
         </div>
+        <div
+          class="am-grid-item-inner"
+        />
       </div>
       <div
         class="am-flexbox-item am-grid-item"
-        style="width:0px;"
+        style="width:25%;"
       >
         <div
-          class="am-grid-item-contain column-num-4"
-          style="height:0px;"
+          class="am-grid-item-content"
         >
-          <img
-            class="am-grid-icon"
-            src="https://os.alipayobjects.com/rmsportal/IptWdCkrtkAUfjE.png"
-          />
           <div
-            class="am-grid-text"
+            class="am-grid-item-inner-content column-num-4"
           >
-            名字7
+            <img
+              class="am-grid-icon"
+              src="https://os.alipayobjects.com/rmsportal/IptWdCkrtkAUfjE.png"
+            />
+            <div
+              class="am-grid-text"
+            >
+              名字7
+            </div>
           </div>
         </div>
+        <div
+          class="am-grid-item-inner"
+        />
       </div>
     </div>
     <div
@@ -175,34 +223,40 @@ exports[`renders ./components/grid/demo/basic.md correctly 1`] = `
     >
       <div
         class="am-flexbox-item am-grid-item"
-        style="width:0px;"
+        style="width:25%;"
       >
         <div
-          class="am-grid-item-contain column-num-4"
-          style="height:0px;"
+          class="am-grid-item-content"
         >
-          <img
-            class="am-grid-icon"
-            src="https://os.alipayobjects.com/rmsportal/IptWdCkrtkAUfjE.png"
-          />
           <div
-            class="am-grid-text"
+            class="am-grid-item-inner-content column-num-4"
           >
-            名字8
+            <img
+              class="am-grid-icon"
+              src="https://os.alipayobjects.com/rmsportal/IptWdCkrtkAUfjE.png"
+            />
+            <div
+              class="am-grid-text"
+            >
+              名字8
+            </div>
           </div>
         </div>
+        <div
+          class="am-grid-item-inner"
+        />
       </div>
       <div
         class="am-flexbox-item"
-        style="width:0px;"
+        style="width:25%;"
       />
       <div
         class="am-flexbox-item"
-        style="width:0px;"
+        style="width:25%;"
       />
       <div
         class="am-flexbox-item"
-        style="width:0px;"
+        style="width:25%;"
       />
     </div>
   </div>
@@ -219,121 +273,78 @@ exports[`renders ./components/grid/demo/basic.md correctly 1`] = `
     >
       <div
         class="am-flexbox-item am-grid-item"
-        style="width:0px;"
+        style="width:33.333333333333336%;"
       >
         <div
-          class="am-grid-item-contain column-num-3"
-          style="height:0px;"
+          class="am-grid-item-content"
         >
-          <img
-            class="am-grid-icon"
-            src="https://os.alipayobjects.com/rmsportal/IptWdCkrtkAUfjE.png"
-          />
           <div
-            class="am-grid-text"
+            class="am-grid-item-inner-content column-num-3"
           >
-            名字0
+            <img
+              class="am-grid-icon"
+              src="https://os.alipayobjects.com/rmsportal/IptWdCkrtkAUfjE.png"
+            />
+            <div
+              class="am-grid-text"
+            >
+              名字0
+            </div>
           </div>
         </div>
+        <div
+          class="am-grid-item-inner"
+        />
       </div>
       <div
         class="am-flexbox-item am-grid-item"
-        style="width:0px;"
+        style="width:33.333333333333336%;"
       >
         <div
-          class="am-grid-item-contain column-num-3"
-          style="height:0px;"
+          class="am-grid-item-content"
         >
-          <img
-            class="am-grid-icon"
-            src="https://os.alipayobjects.com/rmsportal/IptWdCkrtkAUfjE.png"
-          />
           <div
-            class="am-grid-text"
+            class="am-grid-item-inner-content column-num-3"
           >
-            名字1
+            <img
+              class="am-grid-icon"
+              src="https://os.alipayobjects.com/rmsportal/IptWdCkrtkAUfjE.png"
+            />
+            <div
+              class="am-grid-text"
+            >
+              名字1
+            </div>
           </div>
         </div>
+        <div
+          class="am-grid-item-inner"
+        />
       </div>
       <div
         class="am-flexbox-item am-grid-item"
-        style="width:0px;"
+        style="width:33.333333333333336%;"
       >
         <div
-          class="am-grid-item-contain column-num-3"
-          style="height:0px;"
+          class="am-grid-item-content"
         >
-          <img
-            class="am-grid-icon"
-            src="https://os.alipayobjects.com/rmsportal/IptWdCkrtkAUfjE.png"
-          />
           <div
-            class="am-grid-text"
+            class="am-grid-item-inner-content column-num-3"
           >
-            名字2
+            <img
+              class="am-grid-icon"
+              src="https://os.alipayobjects.com/rmsportal/IptWdCkrtkAUfjE.png"
+            />
+            <div
+              class="am-grid-text"
+            >
+              名字2
+            </div>
           </div>
         </div>
-      </div>
-    </div>
-    <div
-      class="am-flexbox am-flexbox-justify-center am-flexbox-align-stretch"
-    >
-      <div
-        class="am-flexbox-item am-grid-item"
-        style="width:0px;"
-      >
         <div
-          class="am-grid-item-contain column-num-3"
-          style="height:0px;"
-        >
-          <img
-            class="am-grid-icon"
-            src="https://os.alipayobjects.com/rmsportal/IptWdCkrtkAUfjE.png"
-          />
-          <div
-            class="am-grid-text"
-          >
-            名字3
-          </div>
-        </div>
-      </div>
-      <div
-        class="am-flexbox-item am-grid-item"
-        style="width:0px;"
-      >
-        <div
-          class="am-grid-item-contain column-num-3"
-          style="height:0px;"
-        >
-          <img
-            class="am-grid-icon"
-            src="https://os.alipayobjects.com/rmsportal/IptWdCkrtkAUfjE.png"
-          />
-          <div
-            class="am-grid-text"
-          >
-            名字4
-          </div>
-        </div>
-      </div>
-      <div
-        class="am-flexbox-item am-grid-item"
-        style="width:0px;"
-      >
-        <div
-          class="am-grid-item-contain column-num-3"
-          style="height:0px;"
-        >
-          <img
-            class="am-grid-icon"
-            src="https://os.alipayobjects.com/rmsportal/IptWdCkrtkAUfjE.png"
-          />
-          <div
-            class="am-grid-text"
-          >
-            名字5
-          </div>
-        </div>
+          class="am-grid-item-inner"
+        />
       </div>
     </div>
     <div
@@ -341,60 +352,157 @@ exports[`renders ./components/grid/demo/basic.md correctly 1`] = `
     >
       <div
         class="am-flexbox-item am-grid-item"
-        style="width:0px;"
+        style="width:33.333333333333336%;"
       >
         <div
-          class="am-grid-item-contain column-num-3"
-          style="height:0px;"
+          class="am-grid-item-content"
         >
-          <img
-            class="am-grid-icon"
-            src="https://os.alipayobjects.com/rmsportal/IptWdCkrtkAUfjE.png"
-          />
           <div
-            class="am-grid-text"
+            class="am-grid-item-inner-content column-num-3"
           >
-            名字6
+            <img
+              class="am-grid-icon"
+              src="https://os.alipayobjects.com/rmsportal/IptWdCkrtkAUfjE.png"
+            />
+            <div
+              class="am-grid-text"
+            >
+              名字3
+            </div>
           </div>
         </div>
+        <div
+          class="am-grid-item-inner"
+        />
       </div>
       <div
         class="am-flexbox-item am-grid-item"
-        style="width:0px;"
+        style="width:33.333333333333336%;"
       >
         <div
-          class="am-grid-item-contain column-num-3"
-          style="height:0px;"
+          class="am-grid-item-content"
         >
-          <img
-            class="am-grid-icon"
-            src="https://os.alipayobjects.com/rmsportal/IptWdCkrtkAUfjE.png"
-          />
           <div
-            class="am-grid-text"
+            class="am-grid-item-inner-content column-num-3"
           >
-            名字7
+            <img
+              class="am-grid-icon"
+              src="https://os.alipayobjects.com/rmsportal/IptWdCkrtkAUfjE.png"
+            />
+            <div
+              class="am-grid-text"
+            >
+              名字4
+            </div>
           </div>
         </div>
+        <div
+          class="am-grid-item-inner"
+        />
       </div>
       <div
         class="am-flexbox-item am-grid-item"
-        style="width:0px;"
+        style="width:33.333333333333336%;"
       >
         <div
-          class="am-grid-item-contain column-num-3"
-          style="height:0px;"
+          class="am-grid-item-content"
         >
-          <img
-            class="am-grid-icon"
-            src="https://os.alipayobjects.com/rmsportal/IptWdCkrtkAUfjE.png"
-          />
           <div
-            class="am-grid-text"
+            class="am-grid-item-inner-content column-num-3"
           >
-            名字8
+            <img
+              class="am-grid-icon"
+              src="https://os.alipayobjects.com/rmsportal/IptWdCkrtkAUfjE.png"
+            />
+            <div
+              class="am-grid-text"
+            >
+              名字5
+            </div>
           </div>
         </div>
+        <div
+          class="am-grid-item-inner"
+        />
+      </div>
+    </div>
+    <div
+      class="am-flexbox am-flexbox-justify-center am-flexbox-align-stretch"
+    >
+      <div
+        class="am-flexbox-item am-grid-item"
+        style="width:33.333333333333336%;"
+      >
+        <div
+          class="am-grid-item-content"
+        >
+          <div
+            class="am-grid-item-inner-content column-num-3"
+          >
+            <img
+              class="am-grid-icon"
+              src="https://os.alipayobjects.com/rmsportal/IptWdCkrtkAUfjE.png"
+            />
+            <div
+              class="am-grid-text"
+            >
+              名字6
+            </div>
+          </div>
+        </div>
+        <div
+          class="am-grid-item-inner"
+        />
+      </div>
+      <div
+        class="am-flexbox-item am-grid-item"
+        style="width:33.333333333333336%;"
+      >
+        <div
+          class="am-grid-item-content"
+        >
+          <div
+            class="am-grid-item-inner-content column-num-3"
+          >
+            <img
+              class="am-grid-icon"
+              src="https://os.alipayobjects.com/rmsportal/IptWdCkrtkAUfjE.png"
+            />
+            <div
+              class="am-grid-text"
+            >
+              名字7
+            </div>
+          </div>
+        </div>
+        <div
+          class="am-grid-item-inner"
+        />
+      </div>
+      <div
+        class="am-flexbox-item am-grid-item"
+        style="width:33.333333333333336%;"
+      >
+        <div
+          class="am-grid-item-content"
+        >
+          <div
+            class="am-grid-item-inner-content column-num-3"
+          >
+            <img
+              class="am-grid-icon"
+              src="https://os.alipayobjects.com/rmsportal/IptWdCkrtkAUfjE.png"
+            />
+            <div
+              class="am-grid-text"
+            >
+              名字8
+            </div>
+          </div>
+        </div>
+        <div
+          class="am-grid-item-inner"
+        />
       </div>
     </div>
   </div>
@@ -430,60 +538,78 @@ exports[`renders ./components/grid/demo/basic.md correctly 1`] = `
               >
                 <div
                   class="am-flexbox-item am-grid-item"
-                  style="width:0px;"
+                  style="width:33.333333333333336%;"
                 >
                   <div
-                    class="am-grid-item-contain column-num-3"
-                    style="height:0px;"
+                    class="am-grid-item-content"
                   >
-                    <img
-                      class="am-grid-icon"
-                      src="https://os.alipayobjects.com/rmsportal/IptWdCkrtkAUfjE.png"
-                    />
                     <div
-                      class="am-grid-text"
+                      class="am-grid-item-inner-content column-num-3"
                     >
-                      名字0
+                      <img
+                        class="am-grid-icon"
+                        src="https://os.alipayobjects.com/rmsportal/IptWdCkrtkAUfjE.png"
+                      />
+                      <div
+                        class="am-grid-text"
+                      >
+                        名字0
+                      </div>
                     </div>
                   </div>
+                  <div
+                    class="am-grid-item-inner"
+                  />
                 </div>
                 <div
                   class="am-flexbox-item am-grid-item"
-                  style="width:0px;"
+                  style="width:33.333333333333336%;"
                 >
                   <div
-                    class="am-grid-item-contain column-num-3"
-                    style="height:0px;"
+                    class="am-grid-item-content"
                   >
-                    <img
-                      class="am-grid-icon"
-                      src="https://os.alipayobjects.com/rmsportal/IptWdCkrtkAUfjE.png"
-                    />
                     <div
-                      class="am-grid-text"
+                      class="am-grid-item-inner-content column-num-3"
                     >
-                      名字1
+                      <img
+                        class="am-grid-icon"
+                        src="https://os.alipayobjects.com/rmsportal/IptWdCkrtkAUfjE.png"
+                      />
+                      <div
+                        class="am-grid-text"
+                      >
+                        名字1
+                      </div>
                     </div>
                   </div>
+                  <div
+                    class="am-grid-item-inner"
+                  />
                 </div>
                 <div
                   class="am-flexbox-item am-grid-item"
-                  style="width:0px;"
+                  style="width:33.333333333333336%;"
                 >
                   <div
-                    class="am-grid-item-contain column-num-3"
-                    style="height:0px;"
+                    class="am-grid-item-content"
                   >
-                    <img
-                      class="am-grid-icon"
-                      src="https://os.alipayobjects.com/rmsportal/IptWdCkrtkAUfjE.png"
-                    />
                     <div
-                      class="am-grid-text"
+                      class="am-grid-item-inner-content column-num-3"
                     >
-                      名字2
+                      <img
+                        class="am-grid-icon"
+                        src="https://os.alipayobjects.com/rmsportal/IptWdCkrtkAUfjE.png"
+                      />
+                      <div
+                        class="am-grid-text"
+                      >
+                        名字2
+                      </div>
                     </div>
                   </div>
+                  <div
+                    class="am-grid-item-inner"
+                  />
                 </div>
               </div>
               <div
@@ -491,60 +617,78 @@ exports[`renders ./components/grid/demo/basic.md correctly 1`] = `
               >
                 <div
                   class="am-flexbox-item am-grid-item"
-                  style="width:0px;"
+                  style="width:33.333333333333336%;"
                 >
                   <div
-                    class="am-grid-item-contain column-num-3"
-                    style="height:0px;"
+                    class="am-grid-item-content"
                   >
-                    <img
-                      class="am-grid-icon"
-                      src="https://os.alipayobjects.com/rmsportal/IptWdCkrtkAUfjE.png"
-                    />
                     <div
-                      class="am-grid-text"
+                      class="am-grid-item-inner-content column-num-3"
                     >
-                      名字3
+                      <img
+                        class="am-grid-icon"
+                        src="https://os.alipayobjects.com/rmsportal/IptWdCkrtkAUfjE.png"
+                      />
+                      <div
+                        class="am-grid-text"
+                      >
+                        名字3
+                      </div>
                     </div>
                   </div>
+                  <div
+                    class="am-grid-item-inner"
+                  />
                 </div>
                 <div
                   class="am-flexbox-item am-grid-item"
-                  style="width:0px;"
+                  style="width:33.333333333333336%;"
                 >
                   <div
-                    class="am-grid-item-contain column-num-3"
-                    style="height:0px;"
+                    class="am-grid-item-content"
                   >
-                    <img
-                      class="am-grid-icon"
-                      src="https://os.alipayobjects.com/rmsportal/IptWdCkrtkAUfjE.png"
-                    />
                     <div
-                      class="am-grid-text"
+                      class="am-grid-item-inner-content column-num-3"
                     >
-                      名字4
+                      <img
+                        class="am-grid-icon"
+                        src="https://os.alipayobjects.com/rmsportal/IptWdCkrtkAUfjE.png"
+                      />
+                      <div
+                        class="am-grid-text"
+                      >
+                        名字4
+                      </div>
                     </div>
                   </div>
+                  <div
+                    class="am-grid-item-inner"
+                  />
                 </div>
                 <div
                   class="am-flexbox-item am-grid-item"
-                  style="width:0px;"
+                  style="width:33.333333333333336%;"
                 >
                   <div
-                    class="am-grid-item-contain column-num-3"
-                    style="height:0px;"
+                    class="am-grid-item-content"
                   >
-                    <img
-                      class="am-grid-icon"
-                      src="https://os.alipayobjects.com/rmsportal/IptWdCkrtkAUfjE.png"
-                    />
                     <div
-                      class="am-grid-text"
+                      class="am-grid-item-inner-content column-num-3"
                     >
-                      名字5
+                      <img
+                        class="am-grid-icon"
+                        src="https://os.alipayobjects.com/rmsportal/IptWdCkrtkAUfjE.png"
+                      />
+                      <div
+                        class="am-grid-text"
+                      >
+                        名字5
+                      </div>
                     </div>
                   </div>
+                  <div
+                    class="am-grid-item-inner"
+                  />
                 </div>
               </div>
             </div>
@@ -561,60 +705,78 @@ exports[`renders ./components/grid/demo/basic.md correctly 1`] = `
               >
                 <div
                   class="am-flexbox-item am-grid-item"
-                  style="width:0px;"
+                  style="width:33.333333333333336%;"
                 >
                   <div
-                    class="am-grid-item-contain column-num-3"
-                    style="height:0px;"
+                    class="am-grid-item-content"
                   >
-                    <img
-                      class="am-grid-icon"
-                      src="https://os.alipayobjects.com/rmsportal/IptWdCkrtkAUfjE.png"
-                    />
                     <div
-                      class="am-grid-text"
+                      class="am-grid-item-inner-content column-num-3"
                     >
-                      名字6
+                      <img
+                        class="am-grid-icon"
+                        src="https://os.alipayobjects.com/rmsportal/IptWdCkrtkAUfjE.png"
+                      />
+                      <div
+                        class="am-grid-text"
+                      >
+                        名字6
+                      </div>
                     </div>
                   </div>
+                  <div
+                    class="am-grid-item-inner"
+                  />
                 </div>
                 <div
                   class="am-flexbox-item am-grid-item"
-                  style="width:0px;"
+                  style="width:33.333333333333336%;"
                 >
                   <div
-                    class="am-grid-item-contain column-num-3"
-                    style="height:0px;"
+                    class="am-grid-item-content"
                   >
-                    <img
-                      class="am-grid-icon"
-                      src="https://os.alipayobjects.com/rmsportal/IptWdCkrtkAUfjE.png"
-                    />
                     <div
-                      class="am-grid-text"
+                      class="am-grid-item-inner-content column-num-3"
                     >
-                      名字7
+                      <img
+                        class="am-grid-icon"
+                        src="https://os.alipayobjects.com/rmsportal/IptWdCkrtkAUfjE.png"
+                      />
+                      <div
+                        class="am-grid-text"
+                      >
+                        名字7
+                      </div>
                     </div>
                   </div>
+                  <div
+                    class="am-grid-item-inner"
+                  />
                 </div>
                 <div
                   class="am-flexbox-item am-grid-item"
-                  style="width:0px;"
+                  style="width:33.333333333333336%;"
                 >
                   <div
-                    class="am-grid-item-contain column-num-3"
-                    style="height:0px;"
+                    class="am-grid-item-content"
                   >
-                    <img
-                      class="am-grid-icon"
-                      src="https://os.alipayobjects.com/rmsportal/IptWdCkrtkAUfjE.png"
-                    />
                     <div
-                      class="am-grid-text"
+                      class="am-grid-item-inner-content column-num-3"
                     >
-                      名字8
+                      <img
+                        class="am-grid-icon"
+                        src="https://os.alipayobjects.com/rmsportal/IptWdCkrtkAUfjE.png"
+                      />
+                      <div
+                        class="am-grid-text"
+                      >
+                        名字8
+                      </div>
                     </div>
                   </div>
+                  <div
+                    class="am-grid-item-inner"
+                  />
                 </div>
               </div>
               <div />
@@ -656,7 +818,7 @@ exports[`renders ./components/grid/demo/basic.md correctly 1`] = `
     >
       <div
         class="am-flexbox-item am-grid-item"
-        style="width:0px;"
+        style="width:33.333333333333336%;"
       >
         <div
           style="margin:0.16rem;background:#f7f7f7;text-align:center;"
@@ -676,7 +838,7 @@ exports[`renders ./components/grid/demo/basic.md correctly 1`] = `
       </div>
       <div
         class="am-flexbox-item am-grid-item"
-        style="width:0px;"
+        style="width:33.333333333333336%;"
       >
         <div
           style="margin:0.16rem;background:#f7f7f7;text-align:center;"
@@ -696,7 +858,7 @@ exports[`renders ./components/grid/demo/basic.md correctly 1`] = `
       </div>
       <div
         class="am-flexbox-item am-grid-item"
-        style="width:0px;"
+        style="width:33.333333333333336%;"
       >
         <div
           style="margin:0.16rem;background:#f7f7f7;text-align:center;"
@@ -720,7 +882,7 @@ exports[`renders ./components/grid/demo/basic.md correctly 1`] = `
     >
       <div
         class="am-flexbox-item am-grid-item"
-        style="width:0px;"
+        style="width:33.333333333333336%;"
       >
         <div
           style="margin:0.16rem;background:#f7f7f7;text-align:center;"
@@ -740,7 +902,7 @@ exports[`renders ./components/grid/demo/basic.md correctly 1`] = `
       </div>
       <div
         class="am-flexbox-item am-grid-item"
-        style="width:0px;"
+        style="width:33.333333333333336%;"
       >
         <div
           style="margin:0.16rem;background:#f7f7f7;text-align:center;"
@@ -760,7 +922,7 @@ exports[`renders ./components/grid/demo/basic.md correctly 1`] = `
       </div>
       <div
         class="am-flexbox-item"
-        style="width:0px;"
+        style="width:33.333333333333336%;"
       />
     </div>
   </div>
