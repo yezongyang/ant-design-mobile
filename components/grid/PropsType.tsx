@@ -6,7 +6,7 @@ export interface DataItem {
   [key: string]: any;
 }
 
-type reactNode = React.ReactElement<any>;
+export type reactNode = React.ReactElement<any>;
 
 export interface GridProps {
   data?: Array<DataItem | undefined>;
